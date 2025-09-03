@@ -1,0 +1,45 @@
+
+* {
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1{
+    color: rgb(188, 143, 143);
+}
+
+p{
+    color: rgb(111, 151, 152);
+}
+
+.speciel{
+    color: rgb(188, 143, 143);
+}
+
+p.speciel{
+    color: rgb(0, 0, 0);
+}
+
+/* #aqua{
+    color: rgb(0, 0, 0);
+} */
+
+
+#anncathrine{
+    color: rgb(188, 143, 143);
+}
+
+img{
+    border: 4px dotted;
+}
+
+ul{
+    padding-left: 30px;
+}
